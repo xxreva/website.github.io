@@ -1,4 +1,4 @@
 # website.github.io
-LINK AKTIF WEBSITE
+LINK WEBSITE
 
  https://xxreva.github.io/website.github.io/.
